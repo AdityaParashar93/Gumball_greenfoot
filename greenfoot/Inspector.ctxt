@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Inspector
+comment1.params=
+comment1.target=void\ act()
+comment2.params=c\ g
+comment2.target=void\ checkCoin(Coin,\ greenfoot.World)
+numComments=3
